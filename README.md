@@ -1,6 +1,6 @@
 # D197 Version Control
 
-
+Version Number: git version 2.39.3 (Apple Git-146)
 
 ## Getting started
 
