@@ -1,0 +1,7 @@
+Merge Conflict Summary:
+While working to merge the Test and Working branches within my repository, I encountered an issue with the README.md file due to the changes made that created a conflict. Once this issue was identified, I reviewed both branches and the information associated with them to confirm that the necessary information was up to date and updated any information such as version documentation. I utilized the tools and the proper commands within the terminal window and GitLab and was able to successfully resolve the conflicts; and merged the branches, which helped unify the README.md file, which is also reflected in the screenshot of the repository graph.
+
+C1 Changes:
+1. about.html: 'Changed about.html written content and added additional information.' Additional information about the business/page will be added in for public viewing and knowledge.
+2. contact.html:'Updated the contact.html file to include contact information.' Contact information is being added to user access if needed.   
+3. customers.html: 'Updated customers.html and added customer information.' Adding relevant information for customer viewing.
